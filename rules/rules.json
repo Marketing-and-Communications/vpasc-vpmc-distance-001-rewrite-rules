@@ -13,7 +13,7 @@
     "^/Student-Services/FAQs /faq/index.html [R=301,L,NC]",
     "^/Student-Services/Resource /resources/student-resources.html [R=301,L,NC]",
     "^/Student-Services/* /resources/student-resources.html [R=301,L,NC]",
-    "^/Admissions/* /admissions/index.html [R=301,L,NC]",
+    "^/Admissions/* /admissions/index.html [R=301,L]",
     "^/Contact-Us/Accreditation/* /about/accreditation.html [R=301,L,NC]",
     "^/Contact-Us/Grievances/* /contact/grievances.html [R=301,L,NC]",
     "^/Contact-Us/* /contact/index.html [R=301,L,NC]",
