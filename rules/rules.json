@@ -1,6 +1,7 @@
 [
     "^/Current-Students/Distance-Certificates/* /programs/index.html [R=301,L,NC]",
     "^/Current-Students/Distance-Degrees/* /programs/index.html [R=301,L,NC]",
+    "^/Current-Students/Orientation/* /student-orientation/index.html [R=301,L,NC]",
     "^/Current-Students/* /index.html [R=301,L,NC]",
     "^/Faculty-and-Staff/* /resources/faculty-resources.html [R=301,L,NC]",
     "^/Prospective-Students/* /admissions/index.html [R=301,L,NC]",
